@@ -1,0 +1,22 @@
+label,
+input {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.form {
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+.labelName {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.name {
+  margin-left: 37px;
+}
+
+.number {
+  margin-left: 20px;
+}
